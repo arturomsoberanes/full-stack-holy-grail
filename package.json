@@ -1,0 +1,18 @@
+{
+  "name": "full-stack-holy-grail",
+  "version": "1.0.0",
+  "description": "Node app for holy grail",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "arturo.soberanes01@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "redis": "^4.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
