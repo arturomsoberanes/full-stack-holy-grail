@@ -21,7 +21,7 @@
 
 ## :dart: Description ##
 
-Interactive whiteboard made with NodeJS, Express and Socket.io
+Holy Grail Web made with CRA, NodeJS, Express and Redis
 
 ## :memo: Improvements ##
 
