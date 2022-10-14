@@ -2,7 +2,7 @@
   <img src="screenshot.png"  width="500"/>   
 </div>
 
-# <h1 align="center">Real Time Drawing</h1>
+# <h1 align="center">Full-Stack Holy Grail</h1>
 
 <p align="center">
   <a href="#dart-description">Description</a> &#xa0; | &#xa0; 
