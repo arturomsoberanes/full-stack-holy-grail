@@ -1,5 +1,10 @@
 const redis = require('redis')
-const client = redis.createClient()
+const client = redis.createClient({
+  socket: {
+    host:'db',
+    port: 6379
+  }
+})
 
 const keys = [
   'header',
