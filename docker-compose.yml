@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  web:
+    build: .
+    image: full-stack-holy-grail
+    ports: 
+      - 4000:4000
+    restart: always
+  db:
+    image: redis
+    restart: always
+    ports:
+      - 6379:6379
